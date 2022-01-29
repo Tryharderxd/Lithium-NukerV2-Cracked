@@ -1,0 +1,2 @@
+C:\Users\emile\Downloads\Lithium\LithiumNukerV2\obj\Debug\LithiumNukerV2.csproj.AssemblyReference.cache
+C:\Users\emile\Downloads\Lithium\LithiumNukerV2\obj\Debug\LithiumNukerV2.csproj.CoreCompileInputs.cache
